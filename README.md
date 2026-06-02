@@ -5,8 +5,8 @@ A simple REST API to manage addresses with coordinates and proximity search.
 ## Setup
 
 ```bash
-git clone <your-repo>
-cd address_book
+git clone https://github.com/chikkurs/AddressBook.git
+cd AddressBook
 
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
