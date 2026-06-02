@@ -5,3 +5,5 @@ aiosqlite
 geopy
 pydantic-settings
 python-dotenv
+pytest 
+httpx
